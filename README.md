@@ -1,5 +1,5 @@
 # wx-weapp
-微信 H5 跳转小程序使用 wx-open-launch-weapp 标签快速开发库
+微信 H5 跳转小程序使用 wx-open-launch-weapp 标签 Vue、React 快速开发库
 
 ## 安装使用
 HTML:
