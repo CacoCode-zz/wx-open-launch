@@ -1,6 +1,6 @@
 {
   "name": "wx-open-weapp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "微信 <wx-open-launch-weapp> 标签快速开发",
   "main": "index.js",
   "scripts": {
