@@ -1,0 +1,14 @@
+{
+  "name": "wx-open-weapp",
+  "version": "1.0.0",
+  "description": "微信 <wx-open-launch-weapp> 标签快速开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "<wx-open-launch-weapp>"
+  ],
+  "author": "caco",
+  "license": "ISC"
+}
