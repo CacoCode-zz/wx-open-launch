@@ -42,7 +42,7 @@ let launchParams = {
 	launchEvent: function(e) {...}, // 点击按钮正常跳转触发，必填
 	errorEvent: function(e) {...}, // 点击跳转抛出异常，必填
 	active: true, // 按钮是否激活跳转小程序，为了满足个别情况下改按钮不需要跳转小程序
-	noAtiveEvent: function() {...} // 按钮不跳转小程序时的点击时间，active 为 true 时必填
+	noAtiveEvent: function() {...} // 按钮不跳转小程序时的点击事件，active 为 true 时必填
 };
 launchWeApp(launchParams); // 引入JS之后调用launchWeApp
 ```
@@ -86,7 +86,7 @@ let launchParams = {
 	launchEvent: function(e) {...}, // 点击按钮正常跳转触发，必填
 	errorEvent: function(e) {...}, // 点击跳转抛出异常，必填
 	active: true, // 按钮是否激活跳转APP，为了满足个别情况下改按钮不需要跳转APP
-	noAtiveEvent: function() {...} // 按钮不跳转APP时的点击时间，active 为 true 时必填
+	noAtiveEvent: function() {...} // 按钮不跳转APP时的点击事件，active 为 true 时必填
 };
 launchApp(launchParams); // 引入JS之后调用launchApp
 ```
