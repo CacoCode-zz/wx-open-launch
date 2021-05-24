@@ -88,5 +88,5 @@ let launchParams = {
 	active: true, // 按钮是否激活跳转APP，为了满足个别情况下改按钮不需要跳转APP
 	noAtiveEvent: function() {...} // 按钮不跳转APP时的点击时间，active 为 true 时必填
 };
-launchApp(launchParams); // 引入JS之后调用launchWeApp
+launchApp(launchParams); // 引入JS之后调用launchApp
 ```
