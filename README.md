@@ -3,6 +3,11 @@ Vue、React 快速开发库
 - 微信 H5 跳转小程序，使用 wx-open-launch-weapp 标签 
 - 微信 H5 跳转APP，使用 wx-open-launch-app 标签 
 
+## npm 安装
+```
+npm i wx-open-launch
+```
+
 ## H5 跳转小程序
 ### HTML:
 ```html
